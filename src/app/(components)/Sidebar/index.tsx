@@ -82,7 +82,7 @@ const Sidebar = () => {
         }`}
       >
         {/* <Image
-          src="https://s3-inventorymanagement.s3.us-east-2.amazonaws.com/logo.png"
+          src="https://captain-sports.com/wp-content/uploads/captainsports-logo-2.webp"
           alt="edstock-logo"
           width={27}
           height={27}
@@ -93,7 +93,7 @@ const Sidebar = () => {
             isSidebarCollapsed ? "hidden" : "block"
           } font-extrabold text-2xl`}
         >
-          NIMSTOCK
+          Menul & Lahasi Group
         </h1>
 
         <button
